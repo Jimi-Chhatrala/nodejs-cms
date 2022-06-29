@@ -1,0 +1,15 @@
+{
+  "name": "cms",
+  "version": "1.0.1",
+  "description": "Node JS CMS Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jimi Chhatrala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  }
+}
